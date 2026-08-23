@@ -1,5 +1,8 @@
 # 오늘의 OOTD 날씨 코치
 
+- [배포 사이트](https://skala-vue-green-five.vercel.app/)
+- [GitHub 저장소](https://github.com/skuy9474-code/SKALA-VUE)
+
 Vue 수업에서 배운 문법부터 Component, Router, Pinia, Axios까지 하나의 날씨 서비스에 순서대로 적용한 프로젝트입니다.
 
 처음에는 도시별 날씨를 보여주는 간단한 화면으로 시작했습니다. 이후 실제 날씨 API를 연결하고, 확인한 날씨에 맞춰 옷차림과 헤어스타일, 신발, 준비물을 추천하는 `오늘의 OOTD 날씨 코치`로 확장했습니다.
